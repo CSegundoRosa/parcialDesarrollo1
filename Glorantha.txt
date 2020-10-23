@@ -1,0 +1,50 @@
+Glorantha:
+
+- Objetivo:
+	-Diseñar y desarrollar una primera versión
+- Actores:
+	-Jugadores
+- Entidades principales:
+		-Personaje
+			- Mago, Ladrón o bruja
+			-Caracteristicas fundamentales:
+				-Habilidad ofensiva
+					-Varia entre 1 y 5 (n y m) Al inicio
+				-Habilidad defensiva
+					-Varia entre 1 y 5 (j y k) Al inicio
+				-Velocidad de ataque
+					-Varia entre 1 y 10 (a y b) Al inicio
+			-Preguntarle si es siniestro
+			-Preguntarle si es habilidoso
+			-Preguntarle si es ágil
+
+			-Caracteristicas especiales:
+				-Personalidad
+					-Desafiante (si es siniestro y habilidoso)
+					-Sumiso (si no es desafiante)
+				-Inteligencia
+					-Es un numero
+				
+			-Puntos de vida
+			-Estamina
+
+
+		-Arma
+			-Espada
+			-Hacha
+			-Flecha de fuego
+		
+		-Potenciador
+			-Pocion roja
+			-Pocion violeta
+			-Hechizo lunatico
+
+- Otras entidades:
+
+		-Destreza
+			-Alta
+			-Media
+			-Baja
+
+- Relaciones entre entidades:
+	-Personaje (tiene una) -> destreza
